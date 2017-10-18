@@ -1,6 +1,7 @@
 
 public class VectorHelper {
 	
+	//sssss//
 
 	public int[] Tri(int Vect[])
 	{
